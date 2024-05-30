@@ -1,7 +1,3 @@
-def funcionaza():
-   for i in range(45):
-     print("error")
-     
 def suma(a, b):
     print("cambio en la funcion")
     return a+b + c + f + r + t
